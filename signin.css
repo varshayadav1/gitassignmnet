@@ -1,0 +1,59 @@
+body
+{
+  background: linear-gradient(blue, slateblue); 
+height: 100%;
+}
+.form-control
+{
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  border-radius: 7px;
+  
+}
+.buttn{
+  width: 50%;
+  padding: 10px 20px;
+  color: white;
+ border-radius: 7px;
+  background-color: #3CBC8D;
+}
+.h1
+{
+  text-align:center;
+  font-family:'Abril Fatface';
+   color: white !important;
+  
+}
+
+span
+{
+  color: white;
+  margin-top: 25px; 
+  margin-left: 35px;
+}
+p
+{
+  text-align:center;
+  color:white ;
+}
+a
+{
+  color:white;
+}
+form
+{
+  padding-right: 20px;
+  padding-left: 30px;
+  padding-bottom: 40px;
+  padding-top: 50px;
+}
+.error {
+    color:red;
+}
+.formstyle
+{
+  background-color: white;
+  border-radius: 7px;
+}
+
